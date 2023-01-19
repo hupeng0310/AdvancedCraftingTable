@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package online.hupeng.advancedcraftingtable;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;

@@ -68,7 +68,7 @@ public class AdvancedCraftingTable
     @SubscribeEvent
     public void onServerStarting(FMLServerStartingEvent event) {
         // do something when the server starts
-        LOGGER.info("HELLO from server starting");
+        LOGGER.info("Thanks for use Advanced Crafting Table");
     }
 
     // You can use EventBusSubscriber to automatically subscribe events on the contained class (this is subscribing to the MOD
@@ -77,8 +77,8 @@ public class AdvancedCraftingTable
     public static class RegistryEvents {
         @SubscribeEvent
         public static void onBlocksRegistry(final RegistryEvent.Register<Block> blockRegistryEvent) {
-            // register a new block here
-            LOGGER.info("HELLO from Register Block");
+//             register a new block here
+//            LOGGER.info("HELLO from Register Block");
         }
     }
 }

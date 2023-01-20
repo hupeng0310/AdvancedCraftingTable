@@ -1,3 +1,9 @@
+作者申明：
+  作者不对任何因使用本软件产生的法律纠纷承担责任。
+Author's statement:
+  The author is not responsible for any legal action arising from
+the use of this software.
+
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
